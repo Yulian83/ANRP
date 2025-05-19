@@ -1,2 +1,9 @@
 /.venv
 /lapi.weights
+/.env
+/test_images
+/uploads/
+__pycache__/
+/anpr_data.db
+/models
+/detected_plates
